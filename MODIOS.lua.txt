@@ -13,49 +13,49 @@ local v15 = v14:CreateWindow({
 });
 local v16 = {
     Home = v15:AddTab({
-        Title = "📬 Thông Tin"
+        Title = "Thông Tin"
     }),
     Main = v15:AddTab({
-        Title = "✅ Fram"
+        Title = "Fram"
     }),
     Sea = v15:AddTab({
-        Title = "⚓️ Sự kiện biển"
+        Title = "Sự kiện biển"
     }),
     ITM = v15:AddTab({
-        Title = "📌 Vật phẩm/Nhiệm vụ"
+        Title = "Vật phẩm/Nhiệm vụ"
     }),
     Setting = v15:AddTab({
         Title = "⚙️ Cài đặt"
     }),
     Status = v15:AddTab({
-        Title = "🌐 Máy chủ"
+        Title = "Máy chủ"
     }),
     Stats = v15:AddTab({
-        Title = "⬆️ Chỉ Số"
+        Title = "Chỉ Số"
     }),
     Player = v15:AddTab({
-        Title = "🔰 Người chơi"
+        Title = "Người chơi"
     }),
     Teleport = v15:AddTab({
-        Title = "👣 Dịch chuyển"
+        Title = "Dịch chuyển"
     }),
     Visual = v15:AddTab({
         Title = "📝 Giả"
     }),
     Fruit = v15:AddTab({
-        Title = "🍎 Trái"
+        Title = "Trái"
     }),
     Raid = v15:AddTab({
-        Title = "⚔️ Tập kích"
+        Title = "Tập kích"
     }),
     Race = v15:AddTab({
-        Title = "🌴 Up tộc"
+        Title = "tộc"
     }),
     Shop = v15:AddTab({
         Title = "🛒 Cửa hàng"
     }),
     Misc = v15:AddTab({
-        Title = "⚡️ khác"
+        Title = "khác"
     })
 };
 local v17 = v14.Options;
